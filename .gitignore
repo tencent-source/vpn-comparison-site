@@ -5,3 +5,16 @@ node_modules/
 .idea/
 .vscode/
 
+# OPSEC: Keep setup instructions local only
+SETUP.md
+FINAL-DEPLOY.md
+QUICK-START.md
+adsense-setup.md
+DEPLOYMENT-COMPLETE.md
+deploy.sh
+deploy-now.sh
+auto-deploy.sh
+quick-deploy.sh
+update-adsense.sh
+*.backup
+
